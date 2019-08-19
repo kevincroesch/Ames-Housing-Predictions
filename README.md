@@ -1,4 +1,4 @@
-# Regression Challenge
+# Ames Housing Predictions
 
 In this challenge, we use the well known Ames housing data to create a regression model that predicts the price of houses in Ames, IA.
 
